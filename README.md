@@ -19,4 +19,4 @@ This is a simple React application built using modern React tools.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/VijayDev2022/Simple-Redux-React.git
